@@ -1,0 +1,21 @@
+# ─── CẤU HÌNH CHÍNH ───────────────────────────────────────────
+# Chỉ cần sửa file này. fetch_stock.py và agent đều đọc từ đây.
+
+tickers:
+  - VCB
+  - VIC
+  - VHM
+  - HPG
+  - TCB
+  - MBB
+  - VNM
+  - FPT
+  - MSN
+  - BID
+
+fetch:
+  lookback_days: 90        # Số ngày fetch lần đầu (nguồn: Yahoo Finance qua yfinance)
+
+report:
+  top_picks: 3             # Số mã hiển thị trong "Top picks"
+  language: vi             # vi = tiếng Việt, en = tiếng Anh
