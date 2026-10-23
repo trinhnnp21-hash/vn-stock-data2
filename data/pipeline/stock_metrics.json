@@ -1,127 +1,112 @@
 {
- "latest": "2026-10-02",
- "metrics": {
-  "VCB": {
-   "ret30": -3.55,
-   "vol": 1.01,
-   "trend": "Sideway",
-   "slope_pct": -0.118,
-   "vol_trend": -16.8,
-   "last": 57.1,
-   "score": -3.75,
-   "rank": 5,
-   "rec": "⚠️ Theo dõi"
-  },
-  "VIC": {
-   "ret30": 4.43,
-   "vol": 2.31,
-   "trend": "Sideway",
-   "slope_pct": -0.055,
-   "vol_trend": -51.1,
-   "last": 224.0,
-   "score": 1.81,
-   "rank": 1,
-   "rec": "✅ Nên xem xét"
-  },
-  "VHM": {
-   "ret30": -7.49,
-   "vol": 1.78,
-   "trend": "Giảm",
-   "slope_pct": -0.332,
-   "vol_trend": 16.3,
-   "last": 67.9,
-   "score": -4.88,
-   "rank": 6,
-   "rec": "⚠️ Theo dõi"
-  },
-  "HPG": {
-   "ret30": -9.89,
-   "vol": 1.2,
-   "trend": "Giảm",
-   "slope_pct": -0.346,
-   "vol_trend": 17.6,
-   "last": 20.05,
-   "score": -8.96,
-   "rank": 10,
-   "rec": "❌ Tránh/chờ"
-  },
-  "TCB": {
-   "ret30": 2.54,
-   "vol": 2.07,
-   "trend": "Sideway",
-   "slope_pct": -0.007,
-   "vol_trend": 21.7,
-   "last": 32.25,
-   "score": 1.21,
-   "rank": 2,
-   "rec": "✅ Nên xem xét"
-  },
-  "MBB": {
-   "ret30": -7.95,
-   "vol": 1.18,
-   "trend": "Giảm",
-   "slope_pct": -0.264,
-   "vol_trend": -9.1,
-   "last": 19.1,
-   "score": -7.28,
-   "rank": 8,
-   "rec": "❌ Tránh/chờ"
-  },
-  "VNM": {
-   "ret30": -9.34,
-   "vol": 1.16,
-   "trend": "Giảm",
-   "slope_pct": -0.216,
-   "vol_trend": -0.0,
-   "last": 57.3,
-   "score": -8.49,
-   "rank": 9,
-   "rec": "❌ Tránh/chờ"
-  },
-  "FPT": {
-   "ret30": -4.33,
-   "vol": 1.39,
-   "trend": "Sideway",
-   "slope_pct": -0.126,
-   "vol_trend": -25.6,
-   "last": 62.1,
-   "score": -3.36,
-   "rank": 4,
-   "rec": "⚠️ Theo dõi"
-  },
-  "MSN": {
-   "ret30": 1.0,
-   "vol": 1.31,
-   "trend": "Sideway",
-   "slope_pct": -0.008,
-   "vol_trend": 41.0,
-   "last": 70.7,
-   "score": 0.75,
-   "rank": 3,
-   "rec": "✅ Nên xem xét"
-  },
-  "BID": {
-   "ret30": -5.69,
-   "vol": 1.11,
-   "trend": "Sideway",
-   "slope_pct": -0.131,
-   "vol_trend": -0.7,
-   "last": 34.8,
-   "score": -5.41,
-   "rank": 7,
-   "rec": "⚠️ Theo dõi"
-  }
+ "VCB": {
+  "ret30": -4.406779661016946,
+  "vol": 0.8542033488965226,
+  "trend": "Giảm",
+  "slope_pct": -6.2228745776350545,
+  "voltrend": -18.297835679449825,
+  "close": 56.4,
+  "start": "2026-09-10",
+  "score": -2.719645041862578,
+  "grp": "❌ Tránh/chờ"
  },
- "ranking": [
-  "VIC",
-  "TCB",
-  "MSN",
-  "FPT",
-  "VCB",
-  "VHM",
-  "BID",
-  "MBB",
-  "VNM",
-  "HPG"
- ]
+ "VIC": {
+  "ret30": -9.72951150585385,
+  "vol": 2.2694393082091118,
+  "trend": "Giảm",
+  "slope_pct": -13.848570601575386,
+  "voltrend": -16.661882858473298,
+  "close": 223.6,
+  "start": "2026-09-10",
+  "score": -2.4290624517782655,
+  "grp": "⚠️ Theo dõi"
+ },
+ "VHM": {
+  "ret30": -15.458276333789323,
+  "vol": 2.7307846085659473,
+  "trend": "Giảm",
+  "slope_pct": -18.481326430320248,
+  "voltrend": 5.994233288145301,
+  "close": 61.8,
+  "start": "2026-09-10",
+  "score": -2.8869151238682678,
+  "grp": "❌ Tránh/chờ"
+ },
+ "HPG": {
+  "ret30": -3.203661327231133,
+  "vol": 1.4386516974126364,
+  "trend": "Giảm",
+  "slope_pct": -3.2913642500110143,
+  "voltrend": -0.8620997859551727,
+  "close": 21.15,
+  "start": "2026-09-10",
+  "score": -1.7422832857998922,
+  "grp": "⚠️ Theo dõi"
+ },
+ "TCB": {
+  "ret30": 6.172839506172845,
+  "vol": 1.3477053358657423,
+  "trend": "Tăng",
+  "slope_pct": 3.889144082070127,
+  "voltrend": 18.027549207621195,
+  "close": 34.4,
+  "start": "2026-09-10",
+  "score": 2.5267530030238445,
+  "grp": "✅ Nên xem xét"
+ },
+ "MBB": {
+  "ret30": -0.4975124378109541,
+  "vol": 1.2674070650660203,
+  "trend": "Giảm",
+  "slope_pct": -3.6964757203535794,
+  "voltrend": 15.149595928417803,
+  "close": 20.0,
+  "start": "2026-09-10",
+  "score": -1.1308478418981194,
+  "grp": "✅ Nên xem xét"
+ },
+ "VNM": {
+  "ret30": -5.35714285714286,
+  "vol": 1.1757846902759297,
+  "trend": "Giảm",
+  "slope_pct": -6.045246496182123,
+  "voltrend": -24.185102142282787,
+  "close": 58.3,
+  "start": "2026-09-10",
+  "score": -2.518742589933894,
+  "grp": "⚠️ Theo dõi"
+ },
+ "FPT": {
+  "ret30": -15.251734829469966,
+  "vol": 1.328542315662969,
+  "trend": "Giảm",
+  "slope_pct": -19.38740567636698,
+  "voltrend": -1.5485297778702556,
+  "close": 57.4,
+  "start": "2026-09-10",
+  "score": -4.82668399032992,
+  "grp": "❌ Tránh/chờ"
+ },
+ "MSN": {
+  "ret30": 7.278020378457062,
+  "vol": 1.7103056259158282,
+  "trend": "Tăng",
+  "slope_pct": 9.233979653943138,
+  "voltrend": -9.687775630511863,
+  "close": 73.7,
+  "start": "2026-09-10",
+  "score": 2.418463902625562,
+  "grp": "✅ Nên xem xét"
+ },
+ "BID": {
+  "ret30": -6.1898211829436,
+  "vol": 1.2289130194497682,
+  "trend": "Giảm",
+  "slope_pct": -9.818178472748238,
+  "voltrend": -17.388518115121,
+  "close": 34.1,
+  "start": "2026-09-10",
+  "score": -2.6789420365744636,
+  "grp": "⚠️ Theo dõi"
+ }
 }
